@@ -128,8 +128,8 @@ The groups are small (5–37 players), so this is a clear trend, not an exact nu
 ├── sql/
 │   └── analysis.sql      # SQL tables, analysis and checks
 └── images/
-    ├── general_performance.png
-    └── retention.png
+    ├── General Performance Dashboard.png
+    └── Retention.png
 ```
  
 ---
